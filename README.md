@@ -1,8 +1,8 @@
-# crystal-finance-ops
-Operational strategy and analytics workflows from my role at Crystal Investments — includes dashboards, SOPs, and SQL insights.
-# Finance Strategy & Operations – Crystal Investments (2016–2019)
+# cryst-finance-ops
+Operational strategy and analytics workflows from my role at Cryst finance — includes dashboards, SOPs, and SQL insights.
+# Finance Strategy & Operations – Cryst finance (2016–2019)
 
-Demonstrates my role at Crystal Investments, a private finance company providing Gold, Business, and Home loans, as well as Travel and Money Transfer services. Includes dashboards, SOPs, SQL insights, and process documentation.
+Demonstrates my role at Cryst finance, a private finance company providing Gold, Business, and Home loans, as well as Travel and Money Transfer services. Includes dashboards, SOPs, SQL insights, and process documentation.
 
 ## 🧰 Tools & Skills
 - Excel & Power BI – Customer portfolio, risk tracking, repayment forecasts  
